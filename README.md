@@ -3,7 +3,7 @@
 # Install packages:
 
 nltk
-Space
+spacy
 genism
 pyLDAvis
 
